@@ -1,0 +1,551 @@
+input,output,token_count
+4_extracted.docx,"<fatos>
+LUCAS RODRIGUES firmou ""Contrato de Compromisso de Venda e Compra de Bem Imóvel e Outros Pactos"" com CONSTRUÇÕES SUSTENTÁVEIS LTDA. O contrato previa a entrega do imóvel para dezembro de 2012, com cláusula de tolerância de 120 dias (cláusula 8.1). O autor efetuou pagamento de R$ 9.470,00 a título de comissão de corretagem em abril de 2010. A construtora entregou o ""habite-se"" em 29 de maio de 2013. O juízo reconheceu que a ré esteve em mora no período de 30 de abril de 2013 (término do prazo de tolerância) até 29 de maio de 2013 (data da concessão do ""habite-se""). O valor total do contrato era de R$ 235.530,00.
+</fatos>
+
+<pedidos>
+1. Declarada parcialmente procedente a demanda para:
+
+2. Declarar a mora da ré no período de 30/04/2013 até 29/05/2013, afastando a incidência de juros e correção monetária sobre o saldo devedor neste período;
+
+3. Condenar a ré a ressarcir valores pagos a maior, com correção monetária desde a citação e juros de mora desde a sentença;
+
+4. Condenar a ré ao pagamento de multa moratória de 2% conforme cláusula 9.1, com correção monetária desde 30/04/2013;
+
+5. Condenar a ré ao pagamento de indenização por danos morais no valor de R$ 3.532,95, com correção monetária desde a sentença e juros de mora de 1% ao mês desde a citação;
+
+6. Custas, despesas processuais e honorários advocatícios rateados meio a meio entre as partes.
+</pedidos>",502
+4_extracted.docx,"<fatos>
+Lucas Rodrigues firmou ""Contrato de Compromisso de Venda e Compra de Bem Imóvel e Outros Pactos"" com Construções Sustentáveis LTDA, com previsão de entrega do imóvel para dezembro de 2012. O contrato previa prazo de tolerância de 120 dias em caso de atraso na entrega das obras (cláusula 8.1). O autor pagou R$ 9.470,00 a título de comissão de corretagem em abril de 2010. A ré esteve em mora no período de 30 de abril de 2013 até 29 de maio de 2013, quando foi concedido o ""habite-se"". O valor total do contrato era de R$ 235.530,00. A cláusula 9.1 do contrato previa multa moratória de 2% e juros de mora de 1% ao mês em caso de atraso no pagamento por parte do comprador, sem previsão de penalidade equivalente para a vendedora.
+</fatos>
+
+<pedidos>
+1. Declarar a abusividade da cláusula 8.1 (prazo de tolerância de 120 dias) e da cláusula 6.2 do contrato;
+
+2. Declarar indevida a aplicação da correção do saldo residual pelo INCC-M/FGV - IGPM após dezembro/2012 e condenar à devolução dos valores;
+
+3. Subsidiariamente, substituir os índices pelo menor praticado no mercado;
+
+4. Condenar ao pagamento de multa por mora contratual de 2% sobre o valor do contrato (R$ 4.710,60);
+
+5. Condenar ao pagamento de danos morais no valor de R$ 23.553,00 (10% do valor do contrato);
+
+6. Condenar ao pagamento dos valores gastos com aluguel durante o período de atraso;
+
+7. Declarar a inexigibilidade e determinar a devolução em dobro da comissão de corretagem (R$ 18.940,00) ou alternativamente em forma simples (R$ 9.470,00);
+
+8. Condenar ao pagamento de indenização correspondente à atualização conforme índices e juros do clube de investimento da bolsa de valores no período de março/2013 até 25/11/2013.
+</pedidos>",616
+4_extracted.docx,"<fatos>
+Lucas Rodrigues ajuizou ação ordinária contra Construções Sustentáveis Ltda referente ao ""Contrato de Compromisso de Venda e Compra de Bem Imóvel e Outros Pactos"" firmado entre as partes. O contrato previa a entrega do imóvel para dezembro de 2012, com cláusula de tolerância de 120 dias em caso de atraso. O autor pagou R$ 9.470,00 a título de comissão de corretagem em abril de 2010. A construtora obteve o ""habite-se"" em 29 de maio de 2013. O juízo reconheceu que a ré esteve em mora no período de 30 de abril de 2013 até 29 de maio de 2013, quando foi concedido o ""habite-se"". O valor total do contrato era de R$ 235.530,00. O autor retirou dinheiro de aplicação em clube de investimentos antes da conclusão da obra por livre vontade.
+</fatos>
+
+<pedidos>
+1. Declaração de abusividade do prazo de tolerância de 120 dias e da correção do saldo residual pelo INCC-M/FGV-IGPM após dezembro/2012, com devolução dos valores pagos;
+
+2. Subsidiariamente, substituição dos índices pelo menor praticado no mercado;
+
+3. Condenação ao pagamento de multa contratual de 2% sobre o valor do contrato (R$ 4.710,60);
+
+4. Condenação por danos morais de R$ 23.553,00 (10% do valor do contrato);
+
+5. Pagamento dos valores gastos com aluguel e encargos durante o atraso na entrega;
+
+6. Declaração de inexigibilidade e devolução em dobro da comissão de corretagem (R$ 18.940,00) ou alternativamente devolução simples (R$ 9.470,00);
+
+7. Indenização correspondente à atualização conforme índices e juros do clube de investimento da bolsa de valores no período de março/2013 até 25/11/2013.
+</pedidos>",555
+5_extracted.docx,"<fatos>
+Rafael Carvalho ajuizou ação revisional de contrato de financiamento em face da Empresa Visionária de Ti, questionando a aplicação de juros capitalizados, taxas superiores à contratada, cobrança de comissão de permanência e tarifas consideradas ilegais. A instituição ré apresentou contestação defendendo a validade do contrato e a regularidade de suas cláusulas. Após saneamento do processo, foi realizada perícia contábil que apurou saldo devedor de R$ 590,00 atualizado até janeiro de 2014, com parcelas vencidas de R$ 55,11 entre janeiro e dezembro de 2014. O juízo reconheceu a aplicabilidade do CDC ao caso e determinou o afastamento da capitalização de juros do contrato, declarando a inconstitucionalidade do artigo 5º da MP 2.170-36/2001 por vícios formais e materiais. Quanto aos juros remuneratórios, não foi demonstrada abusividade em relação à taxa média de mercado. A comissão de permanência foi considerada devida no período de inadimplência, vedada sua cumulação com correção monetária, juros remuneratórios, moratórios e multa contratual. As cobranças de TAC e tarifa de cadastro foram declaradas abusivas e nulas por não corresponderem a serviços efetivamente prestados ao consumidor, representando mais de 10% do crédito liberado.
+</fatos>
+
+<pedidos>
+1. Declaração de nulidade da capitalização de juros no contrato, ressalvada a capitalização anual;
+
+2. Manutenção dos juros remuneratórios contratados por ausência de demonstração de abusividade em relação à taxa média de mercado;
+
+3. Declaração da possibilidade de cobrança da comissão de permanência durante o período de inadimplência, observada a taxa média de mercado e o percentual contratual, vedada sua cumulação com correção monetária, juros remuneratórios, moratórios e multa contratual;
+
+4. Declaração de nulidade da cobrança da TAC e tarifa de cadastro por abusividade;
+
+5. Fixação do saldo devedor em R$ 590,00, atualizado até janeiro de 2014;
+
+6. Fixação das parcelas vencidas entre janeiro e dezembro de 2014 em R$ 55,11;
+
+7. Condenação do réu ao pagamento integral das custas, despesas processuais e honorários advocatícios fixados em 20% do valor da causa.
+</pedidos>",669
+5_extracted.docx,"<fatos>
+Rafael Carvalho ajuizou ação revisional de contrato de financiamento em face da Empresa Visionária de Ti, questionando a aplicação de juros capitalizados, taxas superiores à contratada, cobrança de comissão de permanência e tarifas consideradas ilegais. A instituição ré, em contestação, defendeu a validade do contrato e a regularidade das cláusulas pactuadas entre as partes. Foi realizada perícia contábil que apurou saldo devedor de R$ 590,00, atualizado até janeiro de 2014, e parcelas vencidas de R$ 55,11 entre janeiro e dezembro de 2014. O juízo reconheceu a aplicabilidade do Código de Defesa do Consumidor ao caso e declarou a inconstitucionalidade do artigo 5º da Medida Provisória nº 2.170-36/2001, afastando a capitalização de juros por vícios formais e materiais, inclusive em razão da suspensão de sua eficácia por liminar na ADIN 2.316-1. Quanto aos juros remuneratórios, não foi demonstrada abusividade em relação à taxa média de mercado. A comissão de permanência foi considerada devida no período de inadimplência, vedada sua cumulação com correção monetária, juros remuneratórios, moratórios e multa contratual. As cobranças de TAC e tarifa de cadastro foram declaradas abusivas e nulas por não corresponderem a serviços efetivamente prestados ao consumidor, representando mais de 10% do crédito liberado.
+</fatos>
+
+<pedidos>
+O juízo julgou parcialmente procedente a ação para:
+1. Afastar a capitalização de juros do contrato, ressalvada a capitalização anual;
+2. Manter os juros remuneratórios contratados por não demonstrada abusividade em relação à taxa média de mercado;
+3. Permitir a cobrança de comissão de permanência no período de inadimplência, vedada cumulação com correção monetária, juros remuneratórios, moratórios e multa contratual, observada a taxa média de mercado e limitada ao percentual contratual;
+4. Declarar a nulidade da cobrança da TAC e da tarifa de cadastro;
+5. Reconhecer como devido o saldo devedor de R$ 590,00 (atualizado até janeiro/2014) e parcelas vencidas de R$ 55,11 (janeiro a dezembro/2014);
+6. Condenar o réu ao pagamento integral das custas, despesas processuais e honorários advocatícios fixados em 20% do valor da causa.
+</pedidos>",702
+5_extracted.docx,"<fatos>
+Rafael Carvalho ajuizou ação revisional de contrato de financiamento em face da Empresa Visionária de Ti, questionando a aplicação de juros capitalizados, taxas superiores à contratada, cobrança de comissão de permanência e tarifas consideradas ilegais. A ré apresentou contestação defendendo a validade do contrato e a regularidade das cláusulas pactuadas entre as partes. Após a réplica e o saneamento do processo, foi realizada perícia contábil que apurou saldo devedor de R$ 590,00, atualizado até janeiro de 2014, e parcelas vencidas de R$ 55,11 entre janeiro e dezembro de 2014. O juízo reconheceu a aplicabilidade do Código de Defesa do Consumidor ao caso, declarou a inconstitucionalidade do artigo 5º da Medida Provisória nº 2.170-36/2001 e afastou a capitalização dos juros com base no artigo 4º do Decreto 22.626/33. Não ficou demonstrada abusividade nas taxas de juros em relação à taxa média de mercado. A comissão de permanência foi considerada devida para o período de inadimplência, vedada sua cumulação com correção monetária, juros remuneratórios, juros moratórios e multa contratual. As cobranças de TAC e tarifa de cadastro foram declaradas abusivas e nulas por não corresponderem a serviços efetivamente prestados ao consumidor e representarem mais de 10% do crédito liberado.
+</fatos>
+
+<pedidos>
+O juízo julgou parcialmente procedente a ação para:
+1. Afastar a capitalização de juros do contrato, ressalvada a capitalização anual;
+2. Manter as taxas de juros contratadas por não terem sido demonstradas como abusivas em relação à taxa média de mercado;
+3. Permitir a cobrança de comissão de permanência durante o período de inadimplência, observada a taxa média de mercado apurada pelo Banco Central e limitada ao percentual contratual, vedada sua cumulação com correção monetária, juros remuneratórios, juros moratórios e multa contratual;
+4. Declarar a nulidade da cobrança da TAC e da tarifa de cadastro;
+5. Reconhecer como devido o saldo devedor de R$ 590,00 (atualizado até janeiro/2014) e parcelas vencidas de R$ 55,11 (janeiro a dezembro/2014);
+6. Condenar o réu ao pagamento integral das custas, despesas processuais e honorários advocatícios fixados em 20% do valor da causa.
+</pedidos>",705
+8_extracted.docx,"<fatos>
+Trata-se de ação judicial envolvendo contrato de transporte marítimo internacional entre duas empresas estrangeiras, onde a ré sustenta ausência de jurisdição brasileira em razão de cláusula de eleição de foro exclusivo estrangeiro. O contrato foi celebrado e executado integralmente no exterior, com carga embarcada na Argentina e descarregada em Hong Kong, conforme conhecimentos de embarque anexados aos autos. O contrato contém cláusula estabelecendo que qualquer ação judicial deveria ser ajuizada exclusivamente perante a justiça de Londres. Não há situação de vulnerabilidade entre as partes contratantes, que são empresas acostumadas às peculiaridades do transporte marítimo internacional. O caso não envolve questões de interesse público ou direitos indisponíveis. As partes, em pleno juízo de cognição quanto aos riscos e efeitos, optaram livremente pela inclusão da cláusula de eleição de foro internacional no contrato.
+</fatos>
+
+<pedidos>
+A autoridade judicial julgou extinto o processo sem resolução do mérito, com fundamento no Artigo 485, incisos IV e VI, do Código de Processo Civil, reconhecendo:
+
+1. O afastamento da incidência do Código de Defesa do Consumidor ao contrato;
+
+2. A incompetência da jurisdição brasileira para processar e julgar a ação em razão da cláusula de eleição de foro exclusivo estrangeiro;
+
+3. A validade da cláusula contratual que estabelece a jurisdição exclusiva de Londres;
+
+4. A condenação da parte autora ao pagamento das despesas processuais e honorários advocatícios fixados em 15% sobre o valor da causa.
+</pedidos>",447
+8_extracted.docx,"<fatos>
+No caso em análise, trata-se de pretensão voltada ao reconhecimento da ausência de jurisdição brasileira em contrato de transporte marítimo internacional que continha cláusula de eleição de foro exclusivo estrangeiro. O contrato foi celebrado entre duas empresas estrangeiras, com cumprimento integral no exterior. A carga avariada foi embarcada na Argentina e descarregada em Hong Kong, conforme demonstram os conhecimentos de embarque juntados aos autos. O contrato de transporte marítimo internacional possuía cláusula estabelecendo que toda e qualquer ação judicial deveria ser ajuizada exclusivamente perante a justiça de Londres, tendo as partes optado expressamente pela exclusão da jurisdição brasileira. Não foi verificada situação de vulnerabilidade entre as partes envolvidas no negócio, sendo estas capazes de analisar os riscos da contratação e ponderar a transferência do custo ao preço final do produto. O caso não envolve qualquer interesse público ou direito indisponível, tratando-se de relação entre empresas acostumadas às peculiaridades do transporte marítimo internacional.
+</fatos>
+
+<pedidos>
+O juízo julgou extinto o processo sem resolução do mérito, com fundamento no Artigo 485, incisos IV e VI, do Código de Processo Civil, reconhecendo:
+
+1. O afastamento da incidência do Código de Defesa do Consumidor ao caso;
+
+2. A validade da cláusula de eleição de foro estrangeiro exclusivo (Londres) presente no contrato de transporte marítimo internacional;
+
+3. A ausência de competência da jurisdição brasileira para processar e julgar a ação;
+
+4. A condenação da Parte Autora ao pagamento das despesas processuais e honorários advocatícios fixados em 15% sobre o valor da causa.
+</pedidos>",477
+8_extracted.docx,"<fatos>
+O caso envolve um contrato de transporte marítimo internacional celebrado entre duas empresas estrangeiras, com cláusula de eleição de foro exclusivo estrangeiro determinando que todas as ações judiciais deveriam ser ajuizadas exclusivamente perante a justiça de Londres. A carga foi embarcada na Argentina e descarregada em Hong Kong, conforme demonstram os conhecimentos de embarque anexados aos autos, tendo o cumprimento do contrato ocorrido integralmente no exterior. As partes contratantes são empresas acostumadas às peculiaridades do transporte marítimo internacional, não havendo situação de vulnerabilidade na relação contratual. O juízo afastou a incidência do Código de Defesa do Consumidor por não verificar hipossuficiência entre as partes e por se tratar de consumo intermediário, onde o custo do serviço é repassado ao produto final. A autoridade judicial entendeu que, como as partes optaram livremente pela jurisdição internacional em situação que não envolve interesse público ou direito indisponível, não caberia analisar as regras de competência da Justiça Brasileira.
+</fatos>
+
+<pedidos>
+O juízo julgou extinto o processo sem resolução do mérito, com fundamento no Artigo 485, incisos IV e VI, do Código de Processo Civil, reconhecendo a incompetência da jurisdição brasileira em razão da cláusula de eleição de foro estrangeiro exclusivo. Determinou que a parte autora sucumbente arcasse com as despesas processuais e honorários advocatícios fixados em 15% sobre o valor da causa.
+</pedidos>",423
+6_extracted.docx,"<fatos>
+A autora Mundo Empresarial Distribuidora formalizou com a requerida Techsoluções LTDA contrato de compra e venda de veículos em 27/03/2013, tendo a tradição dos veículos ocorrido em 01/03/2012. Por solicitação da ré, a autora outorgou procuração pública em cartório ao sócio proprietário Sr. André Melo para transferência dos bens. Pelo contrato, a ré ficaria responsável pelo pagamento e quitação do contrato de alienação junto ao Banco Volkswagen S.A, bem como por todos os custos de IPVA, licenciamento, transferência, multas e outras pendências dos veículos após 15/02/2012.
+
+Restou incontroverso que os veículos foram entregues ao Sr. André, conforme demonstrado pela prova oral e pela procuração de p. 32/33. A procuração, datada de 24/07/2012, corrobora que a entrega ocorreu no ano anterior à assinatura do contrato. O contrato foi assinado por Gustavo Lopes, sócio da empresa requerida, conforme documentos de p. 238/241 e prova oral.
+
+Em depoimento, o Sr. André, proprietário da ré, admitiu que seu funcionário Gustavo Lopes simulou o contrato para obter ANTT, e que cobrou diversas vezes a Mundo Empresarial para quitação dos caminhões. O Sr. André veio até Votuporanga-SP, celebrou verbalmente o negócio em 2012 e, após, com o contrato já assinado pelo sócio Gustavo Lopes (com firma reconhecida em Tabaporã-MT), formalizou a avença em 2013.
+
+Nenhuma das partes providenciou a comunicação da venda ao DETRAN dentro do prazo legal. Os veículos possuem gravame de financiamento, não havendo demonstração de quitação ou concordância da instituição financeira para transferência.
+</fatos>
+
+<pedidos>
+1. Determinação para que a requerida Techsoluções LTDA providencie a quitação das parcelas referentes aos financiamentos dos veículos descritos na inicial;
+
+2. Determinação para que a requerida efetue o pagamento dos impostos e taxas incidentes sobre os veículos a partir da data da tradição (fevereiro/2012);
+
+3. Condenação da requerida ao pagamento de 70% das despesas processuais abertas ou suportadas pela autora;
+
+4. Condenação da requerida ao pagamento de honorários advocatícios de 10% sobre o valor total da condenação (quitação do contrato) em favor do advogado da parte autora;
+
+5. Condenação da autora ao pagamento de honorários advocatícios de 10% sobre o proveito econômico (diferença entre o pedido e o obtido) em favor do advogado da parte ré.
+</pedidos>",765
+6_extracted.docx,"<fatos>
+A empresa Mundo Empresarial Distribuidora formalizou contrato de compra e venda de veículos com a TECHSOLUÇÕES LTDA em 27/03/2013, tendo a tradição dos veículos ocorrido em 01/03/2012. Pelo contrato, a TECHSOLUÇÕES ficou responsável pelos débitos posteriores a 15/02/2012. A autora outorgou procuração pública em cartório para o sócio proprietário Sr. André Melo realizar a transferência dos veículos. Ficou estabelecido que a ré seria responsável pelo pagamento e quitação do contrato de alienação junto ao Banco Volkswagen S.A, bem como pelos custos de IPVA, licenciamento, transferência, multas e outras pendências dos veículos.
+
+Em contestação, a ré alegou que o contrato era fraudulento e que não constituía negócio jurídico válido. Argumentou que a procuração foi outorgada para pessoa física (André) e não para pessoa jurídica, e que esta nunca foi utilizada.
+
+Na instrução processual, restou comprovado que os veículos foram efetivamente entregues ao Sr. André, conforme demonstrado pela procuração de 24/07/2012 e confirmado em depoimento. O contrato foi assinado por Gustavo Lopes, sócio da empresa requerida. O próprio Sr. André admitiu em depoimento que cobrava a Mundo Empresarial pela quitação dos veículos, contradizendo sua alegação de desconhecimento do negócio.
+
+O juízo reconheceu a validade do contrato, tendo em vista que André, proprietário da ré, veio até Votuporanga-SP, celebrou verbalmente o negócio em 2012 e, posteriormente, formalizou a avença em 2013 com contrato assinado pelo sócio Gustavo Lopes. Nenhuma das partes providenciou a comunicação da venda ao DETRAN dentro do prazo legal. Os veículos possuíam gravame de financiamento, não havendo prova de quitação ou concordância da instituição financeira para transferência.
+</fatos>
+
+<pedidos>
+1. Determinação para que a requerida TECHSOLUÇÕES LTDA providencie a quitação das parcelas referentes aos financiamentos dos veículos descritos na inicial;
+
+2. Determinação para que a requerida TECHSOLUÇÕES LTDA efetue o pagamento dos impostos e taxas incidentes sobre os veículos a partir da data da tradição (fevereiro/2012);
+
+3. Condenação da requerida ao pagamento de 70% das despesas processuais abertas ou suportadas pela autora;
+
+4. Condenação da requerida ao pagamento de honorários advocatícios em favor do advogado da parte autora fixados em 10% sobre o valor total da condenação (quitação do contrato);
+
+5. Condenação da parte autora ao pagamento de honorários advocatícios em favor do advogado da parte ré fixados em 10% sobre o proveito econômico (diferença entre o pedido e o obtido).
+</pedidos>",801
+6_extracted.docx,"<fatos>
+A Mundo Empresarial Distribuidora formalizou contrato de compra e venda de veículos com a Techsoluções LTDA em 27/03/2013, tendo a tradição dos veículos ocorrido em 01/03/2012. Por solicitação da ré, a autora outorgou procuração pública em cartório ao sócio proprietário Sr. André Melo para transferência dos bens móveis. Pelo contrato, a ré ficaria responsável pelo pagamento e quitação do contrato de alienação junto ao Banco Volkswagen S.A, bem como por todos os custos de IPVA, licenciamento, transferência, multas e outras pendências dos veículos após 15/02/2012.
+
+Em contestação, a ré alegou que o contrato seria fraudulento e que a procuração foi outorgada para pessoa física (Sr. André) e não para a pessoa jurídica. O Sr. André confirmou em depoimento que veio ao cartório para outorga da procuração e que o contrato foi assinado por Gustavo Lopes, seu sócio, para fins de obtenção de ANTT. Admitiu ainda ter cobrado a Mundo Empresarial pela quitação dos veículos.
+
+Restou incontroverso que os veículos foram entregues ao Sr. André, tanto pela prova oral produzida quanto pela procuração de p. 32/33, que não foi impugnada pela ré. A procuração outorgada ao Sr. André, datada de 24 de julho de 2012, corroborou a alegação da inicial de que a entrega dos veículos ocorreu no ano anterior à assinatura do contrato (2013). O juízo reconheceu a validade do contrato de p. 28/29, tendo o Sr. André vindo a Votuporanga-SP, celebrado verbalmente o negócio em 2012 e, após, munido do contrato já assinado pelo sócio Gustavo Lopes com firma reconhecida em Tabaporã-MT, formalizado a avença no ano seguinte.
+</fatos>
+
+<pedidos>
+O juízo julgou parcialmente procedente a ação para:
+
+1. Determinar que a requerida providencie a quitação das parcelas referentes aos financiamentos dos veículos descritos na inicial;
+
+2. Determinar que a requerida quite os impostos e taxas incidentes sobre os veículos a partir da data da tradição (fevereiro/2012);
+
+3. Condenar a parte requerida ao pagamento de 70% das despesas processuais abertas ou suportadas pela autora;
+
+4. Fixar honorários advocatícios em favor do advogado da parte autora em 10% sobre o valor total da condenação (quitação do contrato);
+
+5. Fixar honorários advocatícios em favor do advogado da parte ré em 10% sobre o proveito econômico (diferença entre o pedido e o obtido).
+
+Foi indeferido o pedido de transferência dos veículos para a requerida, considerando a existência de gravame de financiamento sem demonstração de quitação ou concordância da instituição financeira.
+</pedidos>",808
+3_extracted.docx,"<fatos>
+Jéssica Farias firmou contrato de prestação de serviços com a empresa Soluções em Tecnologia Sustentável em 17/12/2010, com vigência de 21/12/2010 a 21/12/2012, para administração de locação de um imóvel de sua propriedade. O imóvel foi alugado para a empresa Energia Verde Incorporadora, com seguro fiança locatícia junto à Companhia Mutual de Seguros.
+
+A autora alega que a entrega das chaves ocorreu irregularmente em dezembro de 2012, sem a devida vistoria pela imobiliária. Afirma que a ré não cumpriu o contrato por não ter movido medida judicial contra o locatário para cobranças devidas. Diante da alegada inércia, a autora e seu irmão, Sr. Visconde de Pirajá, que intermediava as negociações, buscaram orçamentos para reforma do imóvel junto a lojas de materiais de construção e prestadores de serviços.
+
+Em sua defesa, a ré Soluções em Tecnologia Sustentável sustenta que não foi solicitada a mover ação judicial contra a locatária, uma vez que o representante da autora cuidou da entrega do bem. Alega ter tomado conhecimento de tratativas diretas entre advogados da locatária e locadora. Comprovou através de documento às fls. 121 que realizou vistoria ao fim do contrato, ocasião em que cobrou dos locatários a regularização das pendências.
+
+O juízo constatou que o fim da locação não se deu pela locadora nem pela imobiliária, mas por terceiro - o irmão e representante da requerente, que conforme fls. 173 efetuou vistoria e aceitou as chaves, resolvendo as questões do imóvel diretamente com os inquilinos. Não foi caracterizada negligência da imobiliária ré.
+</fatos>
+
+<pedidos>
+1. Condenação da requerida ao pagamento de R$ 6.806,86 a título de danos materiais;
+2. Condenação da requerida ao pagamento de indenização por danos morais (valor não especificado);
+3. Rescisão do contrato de prestação de serviços;
+4. Devolução de toda documentação pertinente ao imóvel locado.
+</pedidos>",616
+3_extracted.docx,"<fatos>
+A autora Jéssica Farias firmou contrato de prestação de serviços com a imobiliária Soluções em Tecnologia Sustentável em 17/12/2010, com vigência de 21/12/2010 a 21/12/2012, para administração de locação de um imóvel de sua propriedade. O imóvel foi alugado por intermédio da imobiliária para a empresa Energia Verde Incorporadora, com seguro fiança locatícia junto à Companhia Mutual de Seguros.
+
+A autora alega que: (i) após tentativas de contato, não obteve resposta sobre eventual apólice do seguro fiança; (ii) a entrega das chaves foi realizada irregularmente em dezembro de 2012, sem a devida vistoria pela imobiliária; (iii) a ré não cumpriu o contrato por não ter movido medida judicial contra o locatário para cobranças devidas; (iv) diante da inércia da imobiliária, a autora e seu irmão Visconde de Pirajá buscaram orçamentos para reforma do imóvel; (v) solicitou rescisão contratual e devolução da documentação, tendo a ré se recusado.
+
+Em sua defesa, a ré sustenta que: (i) não foi solicitada a mover ação judicial contra a locatária; (ii) o irmão da autora, como seu representante, cuidou da entrega do imóvel; (iii) tomou conhecimento de tratativas diretas entre advogados da locatária e locadora; (iv) realizou vistoria ao final do contrato e cobrou regularização de pendências dos locatários, conforme documento de fls. 121.
+
+O juízo constatou que: (i) o fim da locação se deu por intermédio do irmão e representante da autora; (ii) foi realizada vistoria no fim do contrato com cobrança de regularização de pendências; (iii) a própria autora informou que seu irmão efetuou vistoria e aceitou as chaves; (iv) as questões do imóvel foram resolvidas diretamente entre o irmão da autora e os inquilinos; (v) não houve ação ou omissão culposa da requerida.
+</fatos>
+
+<pedidos>
+A autora requer:
+1. Condenação da requerida ao pagamento de R$ 6.806,86 a título de danos materiais
+2. Reparação pelos danos morais sofridos
+
+O juízo julgou extinto o processo sem resolução do mérito, com fundamento no artigo 485, VI do CPC, por falta de interesse de agir da autora. Condenou a autora ao pagamento de:
+1. Custas e despesas processuais
+2. Honorários advocatícios fixados em 10% sobre o valor da causa
+</pedidos>",742
+3_extracted.docx,"<fatos>
+Jéssica Farias ajuizou ação de reparação de danos materiais e morais contra Soluções em Tecnologia Sustentável, fundamentada nos seguintes fatos:
+
+A autora firmou contrato de prestação de serviços com a ré em 17/12/2010, para administração de locação de um imóvel de sua propriedade, com vigência de 21/12/2010 a 21/12/2012. O imóvel foi alugado para a empresa Energia Verde Incorporadora, com seguro fiança locatícia junto à Companhia Mutual de Seguros.
+
+A autora alega que a entrega das chaves ocorreu irregularmente em dezembro de 2012, sem a devida vistoria que deveria ter sido realizada pela imobiliária. Sustenta que a ré não cumpriu o contrato por não ter movido medida judicial contra o locatário para cobranças devidas.
+
+Diante da alegada inércia da imobiliária, a autora e seu irmão, Sr. Visconde de Pirajá, que intermediava as negociações, buscaram orçamentos para reforma do imóvel. A autora solicitou a rescisão contratual e devolução da documentação, tendo a ré se recusado.
+
+Em sua defesa, a ré argumentou que não foi solicitada a mover ação judicial contra a locatária, sendo que o próprio representante da autora cuidou da entrega do imóvel. Afirma que tomou conhecimento de tratativas diretas entre advogados da locatária e locadora, tendo sido deixada de lado pela requerente. Comprovou através do documento de fls. 121 que realizou vistoria ao final do contrato, ocasião em que cobrou dos locatários a regularização das pendências.
+
+O juízo constatou que o fim da locação se deu por intermédio do irmão e representante da autora, que realizou a vistoria e aceitou as chaves, conforme fls. 173, não tendo ficado caracterizada negligência da imobiliária.
+</fatos>
+
+<pedidos>
+A autora requereu:
+
+1. Condenação da requerida ao pagamento de indenização por danos materiais no valor de R$ 6.806,86;
+
+2. Condenação da requerida ao pagamento de indenização por danos morais (valor não especificado na decisão).
+
+O juízo julgou extinto o processo sem resolução do mérito, com fundamento no artigo 485, VI do CPC, por falta de interesse de agir da autora, condenando-a ao pagamento de:
+
+1. Custas e despesas processuais;
+2. Honorários advocatícios fixados em 10% sobre o valor da causa.
+</pedidos>",708
+10_extracted.docx,"<fatos>
+Rafael Carvalho e Natalia Silveira ajuizaram duas ações contra Visão Futura Consultoria Financeira, que tramitaram em conjunto sob os números 1826587-48.2002.5.15.4180 e 6801381-47.2020.6.42.4222.
+
+Na primeira ação, os autores alegaram que em 21/05/2011 seus nomes foram incluídos em cadastros de inadimplentes por um contrato de aval nº 835.320 que garantia obrigação da empresa Novo Horizonte Consultoria. Afirmaram desconhecer o contrato, alegando falsidade das assinaturas e ausência de anuência.
+
+Na segunda ação, relataram que em 14/06/2011 também tiveram seus nomes negativados em razão de contrato de fiança nº 692.370-4 que garantia contrato de abertura de crédito em favor da mesma empresa Novo Horizonte Consultoria. Igualmente alegaram desconhecimento, falsidade das assinaturas e falta de outorga.
+
+O juízo reconheceu a relação de consumo e aplicou a inversão do ônus da prova. Foi realizada perícia grafotécnica que confirmou a falsidade das assinaturas atribuídas aos autores, conforme laudo pericial de fls. 187 que identificou ""divergências de valores escriturais"" e atestou que as assinaturas ""não foram produzidas pelo punho daquele escritor, sendo, portanto falsas, bem como não são de sua autoria quaisquer das rubricas que figuram nos referidos documentos.""
+</fatos>
+
+<pedidos>
+O juízo julgou procedentes os pedidos formulados em ambas as ações para:
+
+1. Confirmar as tutelas antecipadas anteriormente concedidas;
+
+2. Declarar a inexigibilidade dos contratos de aval nº 835.320 e de fiança nº 692.370-4 discutidos nos autos;
+
+3. Condenar a ré ao pagamento de indenização por danos morais no valor de R$ 10.000,00 para cada autor, com incidência de:
+- Juros de mora de 1% ao mês desde o evento danoso
+- Correção monetária pela tabela prática do TJSP desde o arbitramento
+
+4. Condenar a ré ao pagamento de custas, despesas processuais e honorários advocatícios fixados em 10% do valor da condenação;
+
+5. Determinar a expedição de ofício ao SCPC e Serasa para exclusão dos nomes dos autores dos cadastros de inadimplentes em relação aos débitos discutidos.
+</pedidos>",688
+10_extracted.docx,"<fatos>
+Em 21/05/2011, Rafael Carvalho e Natalia Silveira tiveram seus nomes inseridos no cadastro de maus pagadores em decorrência de um contrato de aval prestado em garantia ao contrato nº 835.320 entre a Visão Futura Consultoria Financeira e a empresa Novo Horizonte Consultoria. Os autores alegaram desconhecer o contrato, afirmando que a assinatura era falsa e que não houve anuência da corré.
+
+Em processo apenso (autos 6801381-47.2020.6.42.4222), foi relatado que em 14/06/2011 os mesmos autores tiveram seus nomes inseridos no cadastro de maus pagadores em virtude de um contrato de fiança prestado em garantia a um contrato de abertura de crédito nº 692.370-4 entre a ré e a empresa Novo Horizonte Consultoria. Igualmente alegaram desconhecer o contrato, afirmando falsidade da assinatura e ausência de outorga da corré.
+
+O juízo reconheceu a relação de consumo entre as partes, aplicando a inversão do ônus da prova. Conforme laudo pericial de fls.187, foi constatada a falsidade das assinaturas atribuídas aos autores, tendo o perito afirmado que ""As divergências de valores escriturais observadas pela perícia entre os questionados lançados... Autorizam a manifestação pericial de falsidade das assinaturas e ele atribuídas ... Pois não foram produzidas pelo punho daquele escritor, sendo, portanto falsas, bem como não são de sua autoria quaisquer das rubricas que figuram nos referidos documentos.""
+</fatos>
+
+<pedidos>
+1. Concessão da gratuidade da justiça aos autores;
+
+2. Concessão de tutela antecipada para exclusão dos nomes dos autores dos órgãos de proteção ao crédito;
+
+3. Declaração de inexigibilidade do contrato de aval referente ao contrato nº 835.320;
+
+4. Declaração de inexigibilidade do contrato de fiança referente ao contrato nº 692.370-4;
+
+5. Condenação da ré ao pagamento de indenização por danos morais no valor de R$ 10.000,00 para cada autor, acrescidos de juros de mora de 1% ao mês desde o evento e correção monetária pela tabela prática do TJSP desde o arbitramento;
+
+6. Condenação da parte vencida ao pagamento de custas, despesas processuais e honorários advocatícios fixados em 10% do valor da condenação.
+</pedidos>",692
+10_extracted.docx,"<fatos>
+Em 21/05/2011 e 14/06/2011, os nomes de Rafael Carvalho e Natalia Silveira foram incluídos nos cadastros de inadimplentes em razão de dois contratos distintos firmados com a Visão Futura Consultoria Financeira: um contrato de aval (nº 835.320) e um contrato de fiança (nº 692.370-4), ambos prestados em garantia a contratos celebrados com a empresa Novo Horizonte Consultoria.
+
+Os autores alegaram desconhecer os contratos, sustentando que as assinaturas eram falsas e que não houve anuência da corré. Foi deferida gratuidade de justiça e antecipação de tutela para exclusão dos nomes dos cadastros de proteção ao crédito em ambos os processos.
+
+O laudo pericial de fls. 187 confirmou a falsidade das assinaturas, atestando que ""as divergências de valores escriturais observadas pela perícia entre os questionados lançados... Autorizam a manifestação pericial de falsidade das assinaturas e ele atribuídas ... Pois não foram produzidas pelo punho daquele escritor, sendo, portanto falsas, bem como não são de sua autoria quaisquer das rubricas que figuram nos referidos documentos.""
+
+O juízo reconheceu a relação de consumo entre as partes, aplicando a inversão do ônus da prova prevista no CDC. Cabia ao banco comprovar a autenticidade dos contratos, o que não foi feito.
+</fatos>
+
+<pedidos>
+1. Declaração de inexigibilidade do contrato de aval nº 835.320 e do contrato de fiança nº 692.370-4;
+
+2. Condenação da ré ao pagamento de indenização por danos morais no valor de R$ 10.000,00 para cada autor, acrescidos de:
+- Juros de mora de 1% ao mês desde o evento danoso
+- Correção monetária pela tabela prática do TJSP desde o arbitramento
+
+3. Condenação da parte vencida ao pagamento de:
+- Custas processuais
+- Despesas processuais
+- Honorários advocatícios fixados em 10% do valor da condenação
+
+4. Exclusão definitiva dos nomes dos autores dos cadastros do SCPC e Serasa em relação aos débitos discutidos nos processos.
+</pedidos>",624
+7_extracted.docx,"<fatos>
+A empresa Vanguarda Ambiental Ltda., proprietária do imóvel consistente em gleba A, resultante da subdivisão do Sítio Bom Retiro (matrícula nº 19.509 junto ao 2º CRI de Campinas SP), firmou instrumento particular de compromisso de compra e venda com João Silva em 13/11/2009, no valor de R$ 82.150,00. O réu deixou de pagar prestações, acumulando inadimplência de R$ 36.161,21, tendo sido constituído em mora por notificação.
+
+A perícia realizada nos autos (fls. 331/347) confirmou a existência de débito no valor de R$ 35.574,12, não tendo sido constatada a prática de anatocismo ou juros abusivos nas cláusulas contratuais pactuadas. O laudo pericial demonstrou que houve cumprimento substancial do contrato pelo requerido, tendo sido adimplida grande parte do valor total acordado.
+
+O juízo reconheceu a aplicabilidade da teoria do adimplemento substancial, considerando o diminuto inadimplemento em relação ao valor total do contrato, afastando assim as consequências rígidas da mora e a possibilidade de rescisão contratual.
+</fatos>
+
+<pedidos>
+1. A autora Vanguarda Ambiental Ltda. requereu:
+- Declaração de rescisão do contrato firmado
+- Reintegração de posse do imóvel
+- Aplicação de multa para casos de nova prática de atos de espoliação
+- Condenação do réu ao pagamento de taxa de ocupação de 1% sobre o valor atual do imóvel
+- Aplicação de multa de 10% sobre o valor do contrato para compensação de despesas administrativas, corretagem, propaganda e demais custos
+
+2. O réu João Silva, em reconvenção, requereu:
+- Gratuidade da justiça
+- Impugnação ao valor da causa
+- Reconhecimento da ausência de notificação e constituição em mora
+- Reconhecimento da ausência de interesse processual
+- Revisão contratual por aumento excessivo das obrigações e juros abusivos
+- Afastamento da multa e taxa de fruição
+- Alternativamente, resolução do contrato com indenização por benfeitorias realizadas
+
+3. Decisão final do juízo:
+- Julgou parcialmente procedente a ação e a reconvenção
+- Condenou o réu ao pagamento do valor residual de R$ 35.574,12, com correção monetária e juros moratórios de 1% ao mês a partir da data do laudo
+- Indeferiu os pedidos de rescisão contratual e reintegração de posse
+- Determinou sucumbência recíproca, com divisão das custas e despesas processuais em 50% para cada parte
+- Fixou honorários advocatícios em 10% da condenação
+- Manteve a gratuidade da justiça ao réu
+</pedidos>",783
+7_extracted.docx,"<fatos>
+A empresa Vanguarda Ambiental Ltda., proprietária do imóvel denominado gleba A, resultante da subdivisão do Sítio Bom Retiro (matrícula nº 19.509 junto ao 2º CRI de Campinas SP), firmou instrumento particular de compromisso de compra e venda com João Silva em 13/11/2009, no valor de R$ 82.150,00. O réu deixou de pagar prestações, acumulando inadimplência no valor de R$ 36.161,21, tendo sido constituído em mora por notificação.
+
+O requerido apresentou contestação com reconvenção, alegando preliminarmente impugnação ao valor da causa e ausência de notificação para constituição em mora. Sustentou aumento excessivo das obrigações contratuais, juros abusivos e requereu revisão contratual. Em reconvenção, pleiteou a revisão do contrato e, alternativamente, sua resolução com indenização por benfeitorias.
+
+Foi realizada perícia técnica que apurou débito no valor de R$ 35.574,12, não constatando a prática de anatocismo ou juros abusivos, confirmando apenas a execução das cláusulas contratuais pactuadas. O laudo pericial evidenciou que houve cumprimento substancial do contrato, afastando as consequências rígidas da mora pela aplicação da teoria do adimplemento substancial, tendo em vista o diminuto inadimplemento em relação ao valor total do contrato.
+</fatos>
+
+<pedidos>
+1. Pedidos da autora (Vanguarda Ambiental Ltda.):
+- Rescisão do contrato de compromisso de compra e venda
+- Reintegração de posse do imóvel
+- Aplicação de multa para casos de nova espoliação
+- Condenação ao pagamento de taxa de ocupação de 1% sobre o valor atual do imóvel
+- Aplicação de multa de 10% sobre o valor do contrato para compensação de despesas administrativas, corretagem, propaganda e demais custos
+
+2. Pedidos do réu (João Silva) em reconvenção:
+- Concessão da gratuidade da justiça
+- Revisão do contrato
+- Alternativamente, resolução do contrato com indenização pelas benfeitorias realizadas
+
+3. Decisão do juízo:
+- Julgou parcialmente procedente a ação e a reconvenção
+- Condenou o réu ao pagamento do valor residual do contrato de R$ 35.574,12, com correção monetária e juros moratórios de 1% ao mês a partir da data do laudo
+- Indeferiu os pedidos de rescisão contratual e reintegração de posse
+- Determinou sucumbência recíproca com rateio de 50% das custas e despesas processuais para cada parte
+- Fixou honorários advocatícios em 10% da condenação
+- Manteve a gratuidade da justiça em favor do réu
+</pedidos>",777
+7_extracted.docx,"<fatos>
+Vanguarda Ambiental Ltda. é proprietária de gleba A, resultante da subdivisão do Sítio Bom Retiro, matrícula nº 19.509 junto ao 2º CRI de Campinas SP, onde foi realizado o Loteamento Parque Bom Retiro. Em 13/11/2009, a empresa firmou instrumento particular de compromisso de compra e venda com João Silva, no valor de R$ 82.150,00. O réu deixou de pagar prestações acordadas, acumulando inadimplência de R$ 36.161,21, tendo sido constituído em mora por notificação. A perícia técnica realizada nos autos (fls. 331/347) confirmou a existência de débito no valor de R$ 35.574,12, não tendo sido constatada a prática de anatocismo ou juros abusivos nas cláusulas contratuais pactuadas. O laudo pericial evidenciou que houve cumprimento substancial do contrato pelo réu, tendo sido adimplida parte significativa do valor total acordado.
+</fatos>
+
+<pedidos>
+A autora Vanguarda Ambiental Ltda. requereu:
+1. Declaração de rescisão do contrato firmado com o réu;
+2. Reintegração de posse do imóvel;
+3. Fixação de multa para casos de nova prática de atos de espoliação pelo requerido;
+4. Condenação do réu ao pagamento de taxa de ocupação pelo período de uso do bem, calculada em 1% de seu valor atual;
+5. Aplicação de multa de 10% sobre o valor do contrato para compensação com despesas administrativas, corretagem, propaganda e demais custos.
+
+O réu João Silva, em reconvenção, requereu:
+1. Concessão de gratuidade da justiça;
+2. Impugnação ao valor da causa;
+3. Revisão do contrato por alegação de juros abusivos, anatocismo e capitalização indevida;
+4. Alternativamente, resolução do contrato com indenização pelas benfeitorias realizadas.
+</pedidos>",553
+1_extracted.docx,"<fatos>
+Gustavo Lopes ajuizou ação declaratória de inexistência de débito cumulada com repetição do indébito e indenização por danos morais contra Excelência Empresarial Consultoria e Heights Eireli-ME. Alega que em 11/04/2018 foi celebrado contrato de empréstimo consignado nº 8425.3196, no valor de R$ 10.893,08, a ser pago em 72 prestações de R$ 308,71, mediante desconto em seu benefício previdenciário. O empréstimo consistiu em refinanciamento para quitar os contratos nº 1293.3146 e 8425.3196, no montante de R$ 8.884,77, sendo que R$ 2.008,31 foram liberados para terceiro desconhecido via ordem de pagamento. A contratação foi realizada pela Heights, com autorização da Excelência Empresarial.
+
+Na contestação, a Excelência Empresarial alegou preliminar de prescrição e, no mérito, ausência de ato ilícito e nexo causal, sustentando ter agido em exercício regular de direito. A Heights arguiu preliminarmente ilegitimidade passiva e, no mérito, alegou ser mera intermediadora na negociação, conforme Resolução CMN nº 4935-2021, atribuindo a responsabilidade à Excelência Empresarial.
+
+O juízo rejeitou as preliminares de ilegitimidade passiva e prescrição. Verificou-se que o contrato juntado aos autos estava desprovido de assinatura, não tendo as rés comprovado a forma de contratação. Foi comprovada a disponibilização de R$ 2.008,31 ao autor, que permaneceu inerte quando intimado a esclarecer sobre sua assinatura no documento.
+</fatos>
+
+<pedidos>
+1. Concessão de tutela de urgência para que as rés se abstenham de incluir o nome do autor em cadastros de inadimplentes e suspendam os descontos do empréstimo;
+
+2. Declaração de inexistência de relação jurídica e anulação do contrato;
+
+3. Indenização por danos materiais com restituição em dobro dos valores debitados, na proporção de R$ 13.891,95;
+
+4. Indenização por danos morais no valor de R$ 20.000,00.
+
+O juízo julgou procedente a ação para:
+
+1. Tornar definitiva a tutela de urgência concedida;
+
+2. Declarar inexistente a relação jurídica referente ao contrato de empréstimo;
+
+3. Condenar solidariamente as rés a restituírem os valores descontados do benefício previdenciário (de forma simples), com correção monetária pela tabela do TJSP desde os descontos e juros de 1% ao mês desde a citação;
+
+4. Condenar solidariamente as rés ao pagamento de R$ 5.000,00 a título de danos morais, com correção monetária desde a publicação da sentença e juros de 1% ao mês desde a citação;
+
+5. Determinar o abatimento de R$ 2.008,31 dos valores devidos ao autor;
+
+6. Condenar as rés ao pagamento de custas, despesas processuais e honorários advocatícios de 10% sobre o valor da condenação para cada.
+</pedidos>",882
+1_extracted.docx,"<fatos>
+Em 11/04/2018, Gustavo Lopes celebrou contrato de empréstimo consignado nº 8425.3196, no valor de R$ 10.893,08, a ser pago em 72 prestações de R$ 308,71, descontados de seu benefício previdenciário. O empréstimo consistia em um refinanciamento para quitar os empréstimos nº 1293.3146 e 8425.3196, no montante de R$ 8.884,77, sendo que R$ 2.008,31 foram liberados para terceiro desconhecido via ordem de pagamento. A contratação foi realizada pela Heights, com autorização da Excelência Empresarial Consultoria.
+
+O contrato apresentado nos autos (fls. 18/22) encontrava-se sem assinatura, não tendo as rés demonstrado o meio pelo qual teria ocorrido a contratação. Foi comprovada a disponibilização do valor de R$ 2.008,31 ao autor (fls. 236), que, intimado a esclarecer sobre a assinatura no documento, permaneceu inerte.
+
+O juízo reconheceu a inexistência de relação jurídica entre as partes, considerando que as rés não apresentaram documentos que comprovassem efetivamente a contratação do empréstimo impugnado. Mesmo diante de eventual fraude de terceiro, foi mantida a responsabilidade das rés por estar a prática inserida no risco do negócio.
+</fatos>
+
+<pedidos>
+1. Concessão de tutela de urgência para que a ré se abstivesse de incluir o nome do autor no cadastro de inadimplentes e suspendesse os descontos do empréstimo originário (deferida e posteriormente tornada definitiva);
+
+2. Declaração de inexistência de relação jurídica e anulação do contrato (julgado procedente);
+
+3. Indenização por danos materiais com restituição em dobro dos valores debitados na proporção de R$ 13.891,95 (julgado parcialmente procedente, determinando-se apenas a restituição simples dos valores descontados, com correção monetária pela tabela prática do TJSP desde os descontos e juros de 1% ao mês desde a citação, deduzindo-se R$ 2.008,31);
+
+4. Indenização por danos morais no valor de R$ 20.000,00 (julgado parcialmente procedente, fixado em R$ 5.000,00, com correção monetária pela tabela prática do TJSP desde a publicação da sentença e juros de 1% ao mês desde a citação);
+
+5. Condenação das rés, solidariamente, ao pagamento de custas, despesas processuais e honorários advocatícios fixados em 10% sobre o valor da condenação para cada uma.
+</pedidos>",734
+1_extracted.docx,"<fatos>
+Em 11/04/2018, Gustavo Lopes celebrou contrato de empréstimo consignado nº 8425.3196, no valor de R$ 10.893,08, a ser pago em 72 prestações de R$ 308,71, com descontos em seu benefício previdenciário. O empréstimo consistia em um refinanciamento para quitar os empréstimos nº 1293.3146 e 8425.3196, no montante de R$ 8.884,77, sendo que R$ 2.008,31 foram liberados para terceiro via ordem de pagamento. A contratação foi realizada pela Heights, com autorização da Excelência Empresarial Consultoria.
+
+O contrato apresentado nos autos (fls. 18/22) não possuía assinatura, e as requeridas não apresentaram em contestação qualquer documento que comprovasse efetivamente a contratação do empréstimo. Foi comprovada a disponibilização do valor de R$ 2.008,31 ao autor (fls. 236), e quando intimado a esclarecer se a assinatura no documento lhe pertencia, o requerente permaneceu inerte.
+
+O juízo considerou que, mesmo havendo fraude de terceiro, não seria possível excluir a responsabilidade das rés, por estar a prática inserida no risco do negócio. Foi reconhecido que o autor, beneficiário da previdência social, dispõe unicamente do benefício para sua sobrevivência e de seu núcleo familiar próximo, tendo os descontos indevidos causado fundado receio quanto à possibilidade de manter sua própria subsistência.
+</fatos>
+
+<pedidos>
+1. Declaração de inexistência da relação jurídica representada pelo contrato de empréstimo mencionado na inicial;
+
+2. Condenação solidária das requeridas à restituição simples de todos os valores descontados do benefício previdenciário do autor, com correção monetária pela tabela prática do TJSP desde os descontos e juros de mora de 1% ao mês desde a citação, com abatimento do valor de R$ 2.008,31;
+
+3. Condenação solidária das requeridas ao pagamento de R$ 5.000,00 a título de danos morais, com correção monetária pela tabela prática do TJSP desde a publicação da sentença e juros de mora de 1% ao mês desde a citação;
+
+4. Condenação das rés ao pagamento das custas, despesas processuais e honorários advocatícios fixados em 10% sobre o valor da condenação para cada uma.
+</pedidos>",675
+9_extracted.docx,"<fatos>
+RENATO CAVALCANTI ajuizou ação consignatória cumulada com revisional de contrato contra BANCO BRADESCO FINANCIAMENTOS S/A, objetivando a revisão de contrato de arrendamento mercantil para aquisição de veículo. O autor alegou existência de cláusulas abusivas com juros capitalizados no contrato, sustentando que o valor correto para pagamento seria diverso do cobrado, pleiteando compensação ou repetição de indébito dos valores supostamente pagos indevidamente.
+
+O contrato foi celebrado livremente pelo autor para pagamento em parcelas mensais fixas, conforme documentação de ""fls. 23"", com previsão expressa de incidência de juros e encargos bancários. O contrato não foi juntado aos autos. O autor é beneficiário da justiça gratuita.
+
+O juízo fundamentou que a instituição financeira ré, integrante do Sistema Financeiro Nacional, concedeu crédito ao autor, não havendo ilegalidade na cobrança de tarifas pelos serviços prestados. Destacou que a Lei de Usura não se aplica ao caso, conforme Súmula 596 do STF, e que inexiste anatocismo, tratando-se apenas de remuneração pelo retorno do capital empregado. Também afastou a alegação de infração ao art. 192 da Constituição Federal, com base na decisão do STF na ADIn nº 4, que estabeleceu não ser tal norma autoaplicável.
+</fatos>
+
+<pedidos>
+O juízo julgou improcedentes os pedidos formulados na inicial, extinguindo o processo com resolução do mérito, com fundamento no art. 269, I, do Código de Processo Civil, mediante julgamento antecipado com base no art. 285-A do CPC.
+
+Não houve condenação em custas processuais em razão da gratuidade da justiça concedida ao autor, nem em honorários advocatícios pela ausência de instauração da lide, uma vez que não houve citação da parte contrária.
+</pedidos>",536
+9_extracted.docx,"<fatos>
+Renato Cavalcanti ajuizou ação consignatória cumulada com revisional de contrato contra Banco Bradesco Financiamentos S/A, visando à revisão de contrato de arrendamento mercantil para aquisição de veículo. O autor alegou a existência de cláusulas abusivas e juros capitalizados no contrato, sustentando que o valor correto para pagamento seria diverso do cobrado, pleiteando compensação ou repetição de indébito dos valores supostamente pagos indevidamente.
+
+O contrato foi celebrado livremente pelo autor para pagamento em parcelas mensais fixas, tendo conhecimento prévio da incidência de juros e encargos bancários expressamente previstos no instrumento contratual. O juízo constatou que o contrato não foi juntado aos autos.
+
+O banco, como instituição financeira integrante do Sistema Financeiro Nacional, prestou serviços ao autor mediante concessão de crédito, sendo legítima a cobrança de tarifas pelos serviços prestados. Não foi identificada a prática de anatocismo, mas apenas a remuneração pelo retorno do capital empregado, considerando a natureza lucrativa da operação bancária.
+</fatos>
+
+<pedidos>
+1. Revisão do contrato de arrendamento mercantil celebrado com o Banco Bradesco Financiamentos S/A;
+
+2. Declaração de abusividade das cláusulas contratuais referentes aos juros capitalizados;
+
+3. Reconhecimento do ""valor correto"" para pagamento das parcelas;
+
+4. Compensação ou repetição de indébito dos valores alegadamente pagos de forma indevida.
+
+Todos os pedidos foram julgados improcedentes, com resolução do mérito, nos termos do art. 269, I, do Código de Processo Civil, sendo o processo extinto sem condenação em custas, em razão da gratuidade concedida ao autor, e sem honorários advocatícios pela ausência de instauração da lide.
+</pedidos>",517
+9_extracted.docx,"<fatos>
+RENATO CAVALCANTI ajuizou ação consignatória cumulada com revisional de contrato em face de BANCO BRADESCO FINANCIAMENTOS S/A, objetivando a revisão de contrato de arrendamento mercantil para aquisição de veículo. O autor alega a existência de cláusulas abusivas e juros capitalizados no contrato, sustentando que o ""valor correto"" para pagamento seria diverso do cobrado, pleiteando compensação ou repetição de indébito dos valores supostamente pagos indevidamente. O contrato foi celebrado livremente com parcelas mensais fixas, conforme consta às ""fls. 23"", presumindo-se o pagamento de algumas parcelas. O magistrado ressalta que o autor tinha ciência, no momento da contratação, da obrigação de pagar as parcelas mensalmente pelo prazo acordado, bem como da incidência de juros e encargos bancários expressamente previstos no contrato. O contrato não foi juntado aos autos. A instituição financeira ré, integrante do Sistema Financeiro Nacional, concedeu crédito ao autor mediante contraprestação, sendo legítima a cobrança de tarifas pelos serviços prestados.
+</fatos>
+
+<pedidos>
+1. Revisão do contrato de arrendamento mercantil firmado com a instituição financeira;
+2. Reconhecimento da ilegalidade das cláusulas contratuais que estabelecem juros capitalizados;
+3. Readequação do valor das parcelas conforme entendimento do autor;
+4. Compensação ou repetição de indébito dos valores pagos indevidamente;
+5. Concessão dos benefícios da justiça gratuita.
+
+Decisão: O juízo julgou IMPROCEDENTES todos os pedidos formulados, com resolução do mérito, nos termos do art. 269, I, do Código de Processo Civil, exceto quanto à justiça gratuita, que foi deferida. Não houve condenação em custas e honorários advocatícios, em razão da gratuidade concedida e por não ter havido instauração da lide.
+</pedidos>",547
+2_extracted.docx,"<fatos>
+As partes Aline Santos e Pedro Ferreira foram casadas, tendo se divorciado mediante ação distribuída em 22 de julho de 2002, que tramitou na 3ª Vara da Família e Sucessões sob nº 8847562-32.2002.4.04.4659. Durante o casamento, adquiriram um imóvel no valor de R$ 167.000,00 por meio de financiamento junto à Caixa Econômica Federal, tendo dado aporte inicial de R$ 5.008,08. No acordo homologado de divórcio, ficou estabelecido que ""o imóvel ficaria 100% (cem por cento) para o divorciando; ficando ainda estipulado pelo casal que o referido imóvel que se encontra financiado pelo Banco Caixa Econômica Federal, será transferido integralmente ao divorciando, o qual ficará a partir da homologação deste acordo como único e exclusivo dono do referido imóvel assumindo a dívida restante na sua totalidade, se comprometendo a divorcianda a assinar e apresentar toda e qualquer documentação necessária para a devida transferência junto ao órgão financeiro"". O réu não providenciou a retirada do nome da autora do contrato de financiamento, impossibilitando-a de realizar novo financiamento junto à Caixa Econômica Federal. Citado, o réu não apresentou contestação, sendo decretada sua revelia.
+</fatos>
+
+<pedidos>
+O juízo julgou procedente o pedido para condenar o réu a providenciar a transferência do financiamento única e exclusivamente para seu nome, devendo cumprir os trâmites especificados pela financiadora (Caixa Econômica Federal), no prazo de 15 dias, sob pena de fixação de multa. Determinou que eventual exigência do banco deverá ser comprovada aos autos para atendimento pela parte autora e não incidência de multa. Condenou a parte ré ao pagamento das despesas processuais e honorários advocatícios fixados em 10% sobre o valor da causa, com fundamento no artigo 85, §2° do Código de Processo Civil.
+</pedidos>",567
+2_extracted.docx,"<fatos>
+Aline Santos e Pedro Ferreira casaram-se em 18 de novembro de 2017. Após desentendimentos, distribuíram Ação de Divórcio em 22 de julho de 2002, que tramitou na 3ª Vara da Familia e Sucessões sob nº 8847562-32.2002.4.04.4659. Durante o casamento, as partes adquiriram um imóvel no valor de R$ 167.000,00 através de financiamento na Caixa Econômica Federal, tendo dado aporte inicial de R$ 5.008,08. No acordo homologado no divórcio, estabeleceu-se que ""o imóvel ficaria 100% (cem por cento) para o divorciando"" e que o financiamento ""será transferido integralmente ao divorciando, o qual ficará a partir da homologação deste acordo como único e exclusivo dono do referido imóvel assumindo a dívida restante na sua totalidade"". O réu, contudo, não providenciou a transferência do financiamento para seu nome exclusivo, impossibilitando que a autora realize novo financiamento junto à Caixa Econômica Federal. Citado, o réu não apresentou contestação, sendo decretada sua revelia.
+</fatos>
+
+<pedidos>
+O pedido principal foi julgado procedente para condenar o réu a providenciar a transferência do financiamento única e exclusivamente para seu nome, devendo cumprir os trâmites especificados pela Caixa Econômica Federal, no prazo de 15 dias, sob pena de fixação de multa. Foi determinado que eventual exigência do banco deverá ser comprovada nos autos para atendimento pela parte autora e não incidência de multa. O réu foi condenado ao pagamento das despesas processuais e honorários advocatícios fixados em 10% sobre o valor da causa, com fundamento no artigo 85, §2° do Código de Processo Civil.
+</pedidos>",514
+2_extracted.docx,"<fatos>
+As partes, Aline Santos e Pedro Ferreira, casaram-se em 18 de novembro de 2017 e, após desavenças, distribuíram Ação de Divórcio em 22 de julho de 2002, que tramitou na 3ª Vara da Família e Sucessões sob nº 8847562-32.2002.4.04.4659. Durante o casamento, adquiriram um imóvel no valor de R$ 167.000,00 através de financiamento junto à Caixa Econômica Federal, tendo realizado aporte inicial de R$ 5.008,08. No acordo homologado do divórcio, estabeleceu-se que o imóvel financiado ficaria integralmente com o cônjuge varão (Pedro Ferreira), que deveria providenciar a transferência do financiamento exclusivamente para seu nome, assumindo a dívida remanescente. Contudo, o réu não providenciou a retirada do nome da autora do contrato de financiamento, impossibilitando-a de realizar novo financiamento junto à Caixa Econômica Federal. O réu, devidamente citado, não apresentou contestação, sendo decretada sua revelia. Os documentos juntados aos autos, incluindo cópia do acordo realizado entre as partes, comprovam que o réu não cumpriu o avençado quanto à transferência do imóvel.
+</fatos>
+
+<pedidos>
+1. Determinação para que o réu providencie a transferência do financiamento única e exclusivamente para seu nome, devendo cumprir os trâmites especificados pela financiadora (Caixa Econômica Federal);
+
+2. Subsidiariamente, caso não seja possível a transferência, que o réu promova a substituição da autora por outra pessoa de sua confiança.
+</pedidos>",472
